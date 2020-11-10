@@ -1,1 +1,1 @@
-{ "extensions": ["ms-dotnettools.csharp"] }
+{ "init": "cd csharpTask", "extensions": ["ms-dotnettools.csharp"] }
